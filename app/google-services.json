@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "539629242930",
+    "firebase_url": "https://mapmap-270409.firebaseio.com",
+    "project_id": "mapmap-270409",
+    "storage_bucket": "mapmap-270409.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539629242930:android:d13ba0b19f6c21ec8f4a2b",
+        "android_client_info": {
+          "package_name": "com.musafi.phone_calls"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539629242930-3i619jvurbls97i701v5sjf25j78rpco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_73MUa3HL5C25EOEjP9uy4d7JW0YIT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539629242930-3i619jvurbls97i701v5sjf25j78rpco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539629242930:android:2cd15c5abe5831818f4a2b",
+        "android_client_info": {
+          "package_name": "com.musafi.phonecalllistener"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539629242930-3i619jvurbls97i701v5sjf25j78rpco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6_73MUa3HL5C25EOEjP9uy4d7JW0YIT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539629242930-3i619jvurbls97i701v5sjf25j78rpco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

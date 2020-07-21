@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
+
+    <Button
+        android:id="@+id/userF_btn_map"
+        android:layout_width="260dp"
+        android:layout_height="70dp"
+        android:text="Map"
+        android:textSize="30sp"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:textStyle="italic"
+        />
+    <Button
+        android:id="@+id/userF_btn_contact_list"
+        android:layout_width="260dp"
+        android:layout_height="70dp"
+        android:text="Contact List"
+        android:textSize="30sp"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:textStyle="italic"
+        />
+    <Button
+        android:id="@+id/userF_btn_more_info"
+        android:layout_width="260dp"
+        android:layout_height="70dp"
+        android:text="More Info"
+        android:textSize="30sp"
+        android:backgroundTint="@color/colorPrimary"
+        android:textColor="#ffffff"
+        android:textStyle="italic"
+        />
+
+</LinearLayout>
